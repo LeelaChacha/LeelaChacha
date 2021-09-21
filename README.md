@@ -3,8 +3,8 @@
     src="https://github.com/LeelaChacha/LeelaChacha/raw/main/resources/images/name.png" />
     <img alt="LeelaChacha's Bitmoji" src="https://github.com/LeelaChacha/LeelaChacha/raw/main/resources/images/bitmoji-hi.png" />
 </div>
-<hr style="margin-top: 0;">
-    <p style="text-align: center;">
+<hr>
+    <p>
         “Code is like humor. When you have to explain it, it’s bad.” – Cory House
     </p>
 <hr>
@@ -75,18 +75,18 @@
 </table>
 
 <hr>
-<div style="display: flex; justify-content: start;">
+<div>
+    <h3>Check out <a href="https://www.hukumraj-singh-deora.party/">my website</a></h3>
     <img alt="Pointing to link" style="justify-self: start;"
         src="https://github.com/LeelaChacha/LeelaChacha/raw/main/resources/images/bitmoji-pointing.png" 
         height="150px"/>
-    <h3 style="justify-self: start;">Check out <a href="https://www.hukumraj-singh-deora.party/">my website</a></h3>
 </div>
 <hr>
 
 <div style="display: flex; justify-content: center; flex-direction: column">
     <img style="margin-left:auto;" alt="LeelaChacha's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=LeelaChacha" />
     <hr>
-    <a style="margin-right:auto; margin-left: 50px;" href="https://www.linkedin.com/in/hukumraj-singh-deora/">
+    <a href="https://www.linkedin.com/in/hukumraj-singh-deora/">
         <img alt="LinkedIn" style=": #ff4fff"
         src="https://simpleicons.org/icons/linkedin.svg" width="25px" />
     </a>
