@@ -83,8 +83,11 @@
 </div>
 <hr>
 
-<div style="display: flex; justify-content: center; flex-direction: column">
-    <img style="margin-left:auto;" alt="LeelaChacha's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=LeelaChacha" />
+<div>
+    <img alt="LeelaChacha's GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api?username=LeelaChacha&count_private=true&show_icons=true" />
+    <img alt="LeelaChacha's Top Languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeelaChacha&layout=compact" />
     <hr>
     <a href="https://www.linkedin.com/in/hukumraj-singh-deora/">
         <img alt="LinkedIn" style=": #ff4fff"
