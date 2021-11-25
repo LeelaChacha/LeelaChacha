@@ -9,6 +9,7 @@
     </p>
 <hr>
 
+<!-- Badge Generation (https://github.com/badges/shields/issues/5752) -->
 <table style="display: flex; justify-self: end;">
     <tr>
         <th></th>
@@ -70,6 +71,7 @@
             <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white" />
         </td>
         <td>
+            <img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white" />
         </td>
     </tr>
 </table>
