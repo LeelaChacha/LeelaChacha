@@ -78,13 +78,14 @@
     </tr>
 </table>
 
+<!-- TODO: Remove when website is live
 <hr>
 <div>
     <h3>Check out <a href="https://www.hukumraj-singh-deora.party/">my website</a></h3>
     <img alt="Pointing to link" style="justify-self: start;"
         src="https://github.com/LeelaChacha/LeelaChacha/raw/main/resources/images/bitmoji-pointing.png" 
         height="150px"/>
-</div>
+</div> -->
 <hr>
 
 <div>
