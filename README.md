@@ -1,3 +1,4 @@
+<!--
 <div style="display: flex; justify-content: space-between;">
     <img alt="I'm Chacha" height="350px" style="align-self: center"
     src="https://github.com/LeelaChacha/LeelaChacha/raw/main/resources/images/name.png" />
@@ -9,7 +10,7 @@
     </p>
 <hr>
 
-<!-- Badge Generation (https://github.com/badges/shields/issues/5752) -->
+<!-- Badge Generation (https://github.com/badges/shields/issues/5752) --
 <table style="display: flex; justify-self: end;">
     <tr>
         <th></th>
@@ -85,7 +86,7 @@
     <img alt="Pointing to link" style="justify-self: start;"
         src="https://github.com/LeelaChacha/LeelaChacha/raw/main/resources/images/bitmoji-pointing.png" 
         height="150px"/>
-</div> -->
+</div> --
 <hr>
 
 <div>
@@ -99,3 +100,5 @@
         src="https://simpleicons.org/icons/linkedin.svg" width="25px" />
     </a>
 </div>
+
+-->
